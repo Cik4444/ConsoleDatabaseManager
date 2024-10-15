@@ -75,7 +75,7 @@ namespace TemboDatabaseManager
                                 }
                                 else
                                 {
-                                    Console.WriteLine("\n");
+                                    Console.WriteLine("Finished successfuly");
                                 }
                             }
                         }
