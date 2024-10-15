@@ -17,3 +17,4 @@ C:\Users\Tin\Desktop\TemboDatabaseManager\TemboDatabaseManager\obj\Debug\net8.0\
 C:\Users\Tin\Desktop\TemboDatabaseManager\TemboDatabaseManager\obj\Debug\net8.0\TemboDatabaseManager.pdb
 C:\Users\Tin\Desktop\TemboDatabaseManager\TemboDatabaseManager\obj\Debug\net8.0\TemboDatabaseManager.genruntimeconfig.cache
 C:\Users\Tin\Desktop\TemboDatabaseManager\TemboDatabaseManager\obj\Debug\net8.0\ref\TemboDatabaseManager.dll
+C:\Users\Tin\Desktop\TemboDatabaseManager\TemboDatabaseManager\obj\Debug\net8.0\TemboDatabaseManager.sourcelink.json
